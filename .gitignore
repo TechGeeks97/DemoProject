@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Build and output folders
+.next/
+build/
+
+
+
+# Cache folders
+npm-cache/
+yarn.lock
